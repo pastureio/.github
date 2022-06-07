@@ -1,6 +1,6 @@
 # Welcome to Pasture.io's Public Repo
 
-![pasture io logo square](https://user-images.githubusercontent.com/8731020/172323430-332a0dd8-35a6-4f20-b4a0-651679d3f762.jpg)
+![pasture io logo square](https://user-images.githubusercontent.com/8731020/172323684-9130e4a8-5d1d-4b1e-84ab-e09d277045c7.jpg)
 
 Pasture.io helps farmers make informed grazing decisions with automatic pasture measurements backed by satellites. Visit [https://pasture.io](https://pasture.io) for more information.
 
