@@ -23,7 +23,7 @@ Visit [https://pasture.io](https://pasture.io) for more information, otherwise:
 * [View the self help articles](https://help.pasture.io/)
 * Reach out to us with the website live chat
 
-**e🎠 For other enquiries e**
+**🎠 For other enquiries e**
 * [Visit our comprehensive farming blog](https://pasture.io/blog)
 
 <!--
